@@ -1,6 +1,6 @@
 # input-is
 
-[![Build Status](https://travis-ci.org/aichbauer/node-input-is.svg?branch=master)](https://travis-ci.org/aichbauer/node-input-is)
+[![Build Status](https://img.shields.io/travis/com/aichbauer/node-input-is/master.svg?style=flat-square)](https://travis-ci.org/aichbauer/node-input-is)
 [![Coverage Status](https://coveralls.io/repos/github/aichbauer/node-input-is/badge.svg?branch=master)](https://coveralls.io/github/aichbauer/node-input-is?branch=master)
 
 > Simple input validation
