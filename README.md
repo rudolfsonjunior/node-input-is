@@ -57,7 +57,7 @@ inputIs.email('example@mail.com'); // true
 
 ### date
 
-
+> Note: You have to pass a second argument which indicates the format of the date
 
 This function validates if a form input is a valid date
 
