@@ -92,9 +92,6 @@ const inputIs = {
       ? value.split('T')[1]
       : value.split(' ')[1];
 
-    console.log(date);
-    console.log(time);
-
     const validDate = isValidDate(date, format);
     const validTime = isValidTime(time);
 
