@@ -22,7 +22,7 @@ test_script:
   # run tests
   - npm test
 
-after_success:
+on_success:
   - npm run coveralls
 
 # Don't actually build.
